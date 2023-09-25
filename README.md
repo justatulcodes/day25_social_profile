@@ -1,16 +1,8 @@
 # day25_social_profile
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/justatulcodes/day25_social_profile/assets/106759388/619cd4f0-2422-4a6e-94d6-db0d6ca5266b" alt="Image" width="500" height="500">
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/justatulcodes/day25_social_profile/assets/106759388/87f2749f-66e4-42cd-bafb-1d5779d22314" alt="Image" width="500" height="500">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Click To Watch Video](https://www.youtube.com/watch?v=Ta6AW5v9yag)
